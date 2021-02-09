@@ -1,0 +1,36 @@
+body {
+  background: url("../img/pattern.png");
+  font-family: Tahoma;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.resume {
+  padding: 20px;
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ccc;
+  box-shadow: 0 10px 10px #ccc;
+  border-radius: 10px;
+}
+.resume-photo {
+  display: block;
+  width: 245px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 30%;
+}
+.resume-title {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+.resume-text {
+  font-size: 14px;
+}
+.subtitle {
+  color: cadetblue;
+}
+.link {
+  color: #b86f12;
+}
